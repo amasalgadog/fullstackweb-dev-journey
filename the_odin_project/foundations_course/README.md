@@ -6,8 +6,8 @@ The assignments were enumerated as they are presented over the course. The follo
 
 > html-boilerplate.html
 
-5th Assignment - 1st project of the Foundations Course - A website of recipes:
+5th Assignment - 1st project of the Foundations Course - A website of recipes:  
 [Odin Recipes](https://github.com/amasalgadog/odin-recipes)
 
-5th Assignment - Live preview:
+5th Assignment - Live preview:  
 [Live Preview](https://amasalgadog.github.io/odin-recipes)
