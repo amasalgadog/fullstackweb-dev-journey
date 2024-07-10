@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html = lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Links and images exercise</title>
+    </head>
+    
+    <body>
+        <h1>Homepage</h1>
+
+        <!-- These are absolute links to a webpage outside this website -->
+        <h2>Absolute links</h2>
+        <p>
+            <!-- This is an anchor element, is it needed for creating links -->
+            <!-- The anchor tag wrapps the text or another HTML element that will be the link -->
+            <a>About The Odin Project - Failed link</a>
+            <!-- This anchor doesn't point to any destination so it doesn't do anything -->
+        </p>
+
+        <p>
+            <!-- This anchor has a destination referenced to the text via the href (hypertext reference) -->
+            <a href="https://www.theodinproject.com/about">About The Odin Project - Page will be replaced with linked webpage</a>
+        </p>
+
+        <p>
+            <!-- When pressed (open), this link will be opened in a new tab theanks to the target attribute -->
+            <!-- If target is not specified then it will have the default value (_self), which is the current tab -->
+            <!-- When target is set to _blank then a new window or tab will be opened, and this behaviour will be determined by the browser -->
+            <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">About The Odin Project - Page will open a new tab for linked webpage</a>
+            <!-- The rel attribute describes the relation between the current page and the linked document -->
+            <!-- A noopener value prevents the linked document from gaining access to the webpage from which it was opened -->
+            <!-- A noreferrer value prevents prevents the linked document from knowing which webpage or resource has a link to it -->
+        </p>
+
+        <!-- This is a relative link to a webpage within the website -->
+        <h2>Relative links</h2>
+        <a href="./pages/about.html">About</a>
+        <!-- The ./ tell the explorer the path is relative to the current directory -->
+
+        <!-- This is absolute image-->
+        <h2>Absolute Image - Resized</h2>
+        <img src="https://www.theodinproject.com/mstile-310x310.png" alt="The Odin Project Logo" height="310" width="310">        
+    
+        <!-- The difference between the absolute and relative link/image is their reference source -->
+        <!-- Absolutes are external resources consisting of 3 parts: protocol://domain/path -->
+        <!-- Relatives just need the path part because they are internally located as resource within the website -->
+    </body>
+</html>

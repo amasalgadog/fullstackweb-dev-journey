@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My First Lists</title>
+    </head>
+    <body>
+        <h3>Shopping list</h3>
+
+        <!-- This a unordered list opening tag -->
+        <ul>
+
+            <!-- This a series of list item element -->
+            <li>1 x Peanut butter (500 g)</li>
+            <li>1 x Marraqueta (2 kg) </li>
+            <li>2 x Cheezel bag (230 g)</li>
+        </ul>
+
+        <h3>To-do list</h3>
+
+        <!-- This is a ordered list opening tag -->
+        <!-- The start attribute will tell the browser to start the list from 3 -->
+        <ol start="3">
+
+            <!-- Because this is a ordered list, the first item will be 1 -->
+            <li>Breathing exercises</li>
+            <li>Breakfeast</li>
+
+                <!-- This is a nested lists of unordered items -->
+                <ul>
+                    <li>eggs</li>
+                    <li>palta</li>
+                    <li>hot chocolate</li>
+                </ul>
+            <li>Shower</li>
+            <li>Dress to work</li>
+            <li>Fucking going out</li>
+            <li>Don't know anymore</li>
+        </ol>
+
+        <h3>Places to travel (someday, hopefully soon)</h3>
+        <ol>
+            <li>Perú</li>
+            <li>Uruguay</li>
+
+            <!-- The value attribute will tell the browser that the following item will start from said value -->
+            <!-- This is exclusive for ordered lists -->
+            <li value="7">México</li>
+            <li>Brasil</li>
+        </ol>
+
+        <h3>Top 5 Video games. Starting from bottom</h3>
+        
+        <!-- This a reversed ordered list. reserved is an attribute exclusively for ordered list -->
+        <!-- Due to the list having 5 items, the first item in the list will be the fifth and so on -->
+        <ol reversed>
+            <li>Chrono Trigger</li>
+            <li>Zelda (any from snes)</li>
+            <li>Skyrim</li>
+            <li>Dungeon Siege</li>
+            <li>Diablo (any except the 4th, kinda lame)</li>
+        </ol>
+    </body>
+</html>
