@@ -4,29 +4,27 @@ This is the Foundations Course from The Odin Project
 
 The assignments were enumerated as they are presented over the course. The following webpage is only for copy-paste purpose:
 
-> html-boilerplate.html
-
----
-
+> html-boilerplate.html  
+  
 ## Foundations Course - Chapters and Content
 
-### Introduction     [X]
+1. Introduction     [done]
 
-### Prerequisites    [X]
+2. Prerequisites    [done]
 
-### Git Basics       [X]
+3. Git Basics       [done]
 
-### HTML Foundations [X]
+4. HTML Foundations [done]
 
-[x] [Project: Odin Recipes](https://github.com/amasalgadog/odin-recipes)
-    [Live Preview](https://amasalgadog.github.io/odin-recipes)
+    - [x] [Project: Odin Recipes](https://github.com/amasalgadog/odin-recipes)
+    \+ [Live Preview](https://amasalgadog.github.io/odin-recipes)
 
     Update: CSS added
 
-### CSS Foundations  [ ]
+5. CSS Foundations  [to_be_done]
 
-[x] Intro to CSS
-[x] The Cascade
-[x] Inspecting HMTL and CSS
-[x] The Box Model
-[ ] Block and Inline
+    - [x] Intro to CSS  
+    - [x] The Cascade  
+    - [x] Inspecting HMTL and CSS  
+    - [x] The Box Model  
+    - [ ] Block and Inline
