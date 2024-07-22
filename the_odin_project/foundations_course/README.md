@@ -8,18 +8,17 @@ The assignments were enumerated as they are presented over the course. The follo
   
 ## Foundations Course - Chapters and Content
 
-1. Introduction     [done]
+1. Introduction - [x]
 
-2. Prerequisites    [done]
+2. Prerequisites - [x]
 
-3. Git Basics       [done]
+3. Git Basics - [x]
 
-4. HTML Foundations [done]
+4. HTML Foundations - [x]
 
     - [x] [Project: Odin Recipes](https://github.com/amasalgadog/odin-recipes)
     \+ [Live Preview](https://amasalgadog.github.io/odin-recipes)
-
-    Update: CSS added
+     | Last update: 20/27/2024 > CSS added
 
 5. CSS Foundations  [to_be_done]
 
