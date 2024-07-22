@@ -18,12 +18,18 @@ The assignments were enumerated as they are presented over the course. The follo
 
     - [x] [Project: Odin Recipes](https://github.com/amasalgadog/odin-recipes)
     \+ [Live Preview](https://amasalgadog.github.io/odin-recipes)
-     | Last update: 20/27/2024 > ***CSS added***
+     | Last update: 21/07/2024 > ***CSS added***
 
-5. CSS Foundations ***[ ]***
+5. CSS Foundations ***[done]***
 
-    - [x] Intro to CSS  
-    - [x] The Cascade  
-    - [x] Inspecting HMTL and CSS  
-    - [x] The Box Model  
-    - [ ] Block and Inline
+6. Flexbox ***[ ]***
+
+    - [ ] Introduction to Flexbox  
+    - [ ] Growing and Shrinking  
+    - [ ] Axes  
+    - [ ] Alignment  
+    - [ ] Project: Landing Page
+
+7. JavaScript Basics ***[ ]***
+
+    - ...
