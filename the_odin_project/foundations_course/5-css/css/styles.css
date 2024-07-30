@@ -27,6 +27,12 @@ div, p {
     font-weight: bold;
 }
 
-/* #one, #two {
+#one .important{
     color: blue;
-} */
+    font-weight: bold;
+}
+
+#two .lesser {
+    color: green;
+    font-style: italic;
+}
