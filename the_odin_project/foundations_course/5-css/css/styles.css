@@ -1,0 +1,19 @@
+h1, h2, h3, p{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+div, p {
+    background-color: bisque;
+    color: darkolivegreen
+}
+
+.list {
+    text-align: left;
+    font-weight: bold;
+}
+
+/* #one, #two {
+    color: blue;
+} */
