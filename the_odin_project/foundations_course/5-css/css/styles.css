@@ -1,16 +1,29 @@
+body {
+    font-family: monospace;
+    margin: 2%
+}
+
+h1, h2, h3, div {
+    padding: 20px;
+}
+
 h1, h2, h3, p{
     text-align: center;
     background-color: cornflowerblue;
     color: white;
 }
 
+div {
+    margin-bottom: 50px;
+}
+
 div, p {
     background-color: bisque;
-    color: darkolivegreen
+    color: black;
+    text-align: left;
 }
 
 .list {
-    text-align: left;
     font-weight: bold;
 }
 
