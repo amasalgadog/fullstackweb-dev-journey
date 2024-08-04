@@ -36,3 +36,7 @@ div, p {
     color: green;
     font-style: italic;
 }
+
+img {
+    padding: 50px;
+}
