@@ -24,7 +24,7 @@ The assignments were enumerated as they are presented over the course. The follo
 
 6. Flexbox ***[ ]***
 
-    - [ ] Introduction to Flexbox  
+    - [x] Introduction to Flexbox  
     - [ ] Growing and Shrinking  
     - [ ] Axes  
     - [ ] Alignment  
